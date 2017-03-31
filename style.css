@@ -1,0 +1,15 @@
+
+p{
+	color: red;
+	background-color:yellow;
+	border:5px solid red;
+	line-height: 10px;
+}
+
+body{
+	color:yellow;
+}
+
+P.ORANGE{COLOR:ORANGE}
+.BLUE{COLOR:BLUE}
+.RED{color: RED}
